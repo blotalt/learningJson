@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 15 Pro",
+    "image": "https://www.imagineonline.store/cdn/shop/files/iPhone_15_Pro_Max_Blue_Titanium_PDP_Image_Position-1__en-IN.jpg?v=1759734013&width=1445",
+    "price": 999
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S24 Ultra",
+    "image": "https://i5.walmartimages.com/seo/Samsung-Galaxy-S24-256GB-US-Version-Unlocked-Android-Smartphone-with-50MP-Camera-8K-Video-Long-Battery-Marble-Gray_c70f133f-968b-459c-ad11-bef1e287b7ea.db451ef78808754c12262de42fb341c6.jpeg",
+    "price": 1199
+  },
+  {
+    "id": 3,
+    "name": "Google Pixel 8 Pro",
+    "image": "https://virtual2web.com/12161-superlarge_default/google-pixel-8-pro-5g-12gb-128gb-blanco-porcelain-dual-sim-ga04798.jpg",
+    "price": 999
+  },
+  {
+    "id": 4,
+    "name": "OnePlus 12",
+    "image": "https://gadgetsleo.com/storage/2024/01/One-Plus-12-Silver.jpg",
+    "price": 849
+  },
+  {
+    "id": 5,
+    "name": "Xiaomi 14 Pro",
+    "image": "https://arystorephone.com/wp-content/uploads/2025/01/Redmi-Note-14-Pro-blue.jpg?v=1742627358",
+    "price": 799
+  },
+  {
+    "id": 6,
+    "name": "ASUS ROG Phone 8",
+    "image": "https://dlcdnwebimgs.asus.com/gain/55E62148-BD52-48F6-90E8-46D17DD12BB0/w260/fwebp",
+    "price": 1099
+  },
+  {
+    "id": 7,
+    "name": "Sony Xperia 1 V",
+    "image": "https://www.lbtechreviews.com/wp-content/uploads/2023/06/Sony_Xperia1_V_TOP-1080x608.jpeg",
+    "price": 1299
+  },
+  {
+    "id": 8,
+    "name": "Nothing Phone (2)",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQuUNgqYHdnM1la-Lk3NE87KPVBAPL-eAaFg&s",
+    "price": 699
+  },
+  {
+    "id": 9,
+    "name": "Realme GT 6 Pro",
+    "image": "https://static2.realme.net/images/realme-gt-6/point/m/7.jpg",
+    "price": 649
+  },
+  {
+    "id": 10,
+    "name": "Vivo X100 Pro",
+    "image": "https://images-cdn.ubuy.com.kh/665c8d23e237ca2c1e32dafe-vivo-x100-pro-5g-6-78-034-amoled.jpg",
+    "price": 899
+  }
+]
